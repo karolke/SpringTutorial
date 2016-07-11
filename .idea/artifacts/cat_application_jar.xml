@@ -1,0 +1,34 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="cat-application:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/cat_application_jar</output-path>
+    <root id="archive" name="cat-application.jar">
+      <element id="module-output" name="cat-application" />
+      <element id="module-output" name="cat-domain" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.1.RELEASE/spring-aop-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.1.RELEASE/spring-beans-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-aspects-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-aop-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-context-support-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-beans-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-context-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-instrument-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-expression-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-instrument-tomcat-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-core-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-jdbc-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-jms-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-messaging-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-orm-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-oxm-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-test-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/spring-tx-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/cat-application/lib/aopalliance-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-context/4.3.1.RELEASE/spring-context-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.1.RELEASE/spring-core-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/springframework/spring-expression/4.3.1.RELEASE/spring-expression-4.3.1.RELEASE.jar" path-in-jar="/" />
+      <element id="dir-copy" path="$PROJECT_DIR$/cat-application" />
+    </root>
+  </artifact>
+</component>

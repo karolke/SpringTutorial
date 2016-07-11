@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/cat-application/cat-application.iml" filepath="$PROJECT_DIR$/cat-application/cat-application.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cat-domain/cat-domain.iml" filepath="$PROJECT_DIR$/cat-domain/cat-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cats-webapp/cats-webapp.iml" filepath="$PROJECT_DIR$/cats-webapp/cats-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springTutorial.iml" filepath="$PROJECT_DIR$/springTutorial.iml" />
+    </modules>
+  </component>
+</project>
